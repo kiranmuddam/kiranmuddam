@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kiranbabumuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranbabumuddam/)
 [![Medium](https://img.shields.io/badge/Medium-kiranbabumuddam-green?style=flat-square&logo=medium)](https://medium.com/@kiranbabumuddam)
 
-### Hi there, I'm Kiran Babu Muddam 👋
+### Hi there, I'm Kiran Babu Muddam 👋 | [Portfolio](https://kiranmuddam.com)
 
 Motivated computer science undergraduate with a passion for backend software engineering (Distributed Systems) and API development. Well-versed in writing clean and scalable code using extensive problem-solving skills. If you had an awesome job role for me, don't hesitate to message me. 
 
