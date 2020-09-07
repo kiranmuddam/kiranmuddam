@@ -12,7 +12,7 @@ Motivated computer science undergraduate with a passion for backend software eng
 
 ###  I’m looking to collaborate on ... 👯
 
-I am looking forward to contribute to projects on Web, Distributed Systems, Python applications and cybersecurity applications.
+I am looking forward to contribute to projects on Web, Distributed Systems, software applications and cybersecurity applications.
 
 ###  How to reach me: ... 📫
 
