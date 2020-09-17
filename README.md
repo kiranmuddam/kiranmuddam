@@ -1,4 +1,4 @@
-![banner](./0.jpeg)
+![banner](https://github.com/kiranbabumuddam/kiranbabumuddam/blob/master/0.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranbabumuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranbabumuddam/)
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
