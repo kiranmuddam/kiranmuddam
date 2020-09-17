@@ -1,4 +1,4 @@
-![banner](https://media-exp1.licdn.com/dms/image/C5116AQERHM1Nhqq_6Q/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=5SwL6SSMthqxNPuwb2WhdiFZebKwMlrLIKJxgbPONvI)
+![banner](./0.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranbabumuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranbabumuddam/)
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
