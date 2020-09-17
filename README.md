@@ -20,7 +20,6 @@ I am looking forward to contribute to projects on Web, Distributed Systems, soft
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
 
 ![](https://github-readme-stats.vercel.app/api?username=kiranbabumuddam&count_private=true&hide_border=true&include_all_commits=true&hide=issues&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranbabumuddam&layout=compact&hide_border=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=kiranbabumuddam&color=green&style=flat-square&label=Guests)
 
