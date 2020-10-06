@@ -7,7 +7,7 @@
 
 ### Hi there, I'm Kiran Babu Muddam 👋 | [Portfolio](https://kiranmuddam.com)
 
-Motivated computer science undergraduate with a passion for backend software engineering (Distributed Systems) and API development. Well-versed in writing clean and scalable code using extensive problem-solving skills. If you had an awesome job role for me, don't hesitate to message me. 
+Motivated computer science undergraduate with a passion for backend software engineering, distributed systems and API development. Well-versed in writing clean and scalable code using extensive problem-solving skills. If you had an awesome job role for me, don't hesitate to message me. 
 
 
 ###  I’m looking to collaborate on ... 👯
