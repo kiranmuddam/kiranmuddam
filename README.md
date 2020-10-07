@@ -32,7 +32,7 @@
 
 I am looking forward to contribute to projects on Web Dev, software applications and cybersecurity applications.
 
-###  How to reach me: ... 📫
+### Contact 📫
 
 <a href="https://www.linkedin.com/in/kiranbabumuddam">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
