@@ -43,9 +43,6 @@ I am looking forward to contribute to projects on Web Dev, software applications
 <a href="mailto:kiraniiitn@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="http://medium.com/@kiranbabumuddam">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
 <br />
 
