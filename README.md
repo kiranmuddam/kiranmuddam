@@ -17,7 +17,7 @@
 - Web Dev and Administrator ([RGUKT Nuzvid](https://rguktn.ac.in/)) - Developed and administered computer science engineering, chemical engineering, national service scheme websites which are used by **10k+ students** in the university..
 - [Lead Developer & Maintainer](https://github.com/TIGMINT/) (TIGMINT) : A open-source framework to analyze open-source social media intelligence.
 - [Lead Developer & Maintainer](https://github.com/WatABot/) (WatABot) : A open-source framework implementations of various social network bots.
-- [Summer Intern](http://gurgaon.haryanapolice.gov.in/) (Gurugram Police) worked as intern to develop software applications to tackle cybercrimes.
+- [Summer Intern](http://gurgaon.haryanapolice.gov.in/) (Gurugram Police) worked as an intern to develop software applications to tackle cybercrimes.
 - President & Instructor at [United Security Elite Club (USEC)](https://usec.site) responsible for delivering sessions, conducting events like CTF (Capture The Flag) competitions, workshops and taking decisions related to the club.
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Organized various workshops on Cloud Computing, Artificial Intelligence, Cyber Security, Web Development for around 200 students at a time.
 
