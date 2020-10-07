@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kiranbabumuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranbabumuddam/)
 [![Medium](https://img.shields.io/badge/Medium-kiranbabumuddam-green?style=flat-square&logo=medium)](https://medium.com/@kiranbabumuddam)
 
-### Hi there, I'm Kiran Babu Muddam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://kiranmuddam.com)
+## Hi there, I'm  [Kiran Babu Muddam](https://kiranmuddam.com)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://kiranmuddam.com)
 
 ### About Me 🚀
 
@@ -46,7 +46,7 @@ I am looking forward to contribute to projects on Web Dev, software applications
 
 <br />
 
-![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=kiranbabumuddam&count_private=true&include_all_commits=true&show_icons=true&hide_border=true)
+![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=kiranbabumuddam&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=kiranbabumuddam&color=green&style=flat-square&label=Guests)
 
