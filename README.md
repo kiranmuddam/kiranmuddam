@@ -46,7 +46,7 @@ I am looking forward to contribute to projects on Web Dev, software applications
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=kiranbabumuddam&count_private=true&include_all_commits=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=kiranbabumuddam&count_private=true&include_all_commits=true&show_icons=true&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=kiranbabumuddam&color=green&style=flat-square&label=Guests)
 
