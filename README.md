@@ -10,7 +10,7 @@
 ### About Me 🚀
 
 🎓 Motivated computer science undergraduate with a passion for Software Engineering, DevOps and API development. <br>
-👨‍💻 When I'm free I collaborate on open-source projects, participate in hackathons, play Esports.
+👨‍💻 When I'm free I collaborate on open-source projects, participate in hackathons, play esports.
 
 ### Experience 🔥
 
