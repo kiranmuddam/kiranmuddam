@@ -30,7 +30,7 @@
 
 ### Collaboration 👯
 
-I am looking forward to contribute to projects on Web Dev, software applications and cybersecurity applications.
+I am looking forward to contribute to projects on Full-stack development, software applications and cybersecurity applications.
 
 ### Contact 📫
 
