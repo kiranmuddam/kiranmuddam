@@ -1,8 +1,8 @@
-![banner](https://github.com/kiranbabumuddam/kiranbabumuddam/blob/master/0.jpeg)
+![banner](https://github.com/kiranmuddam/kiranmuddam/blob/master/0.jpeg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranbabumuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranbabumuddam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranbabumuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/)
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
-[![GitHub](https://img.shields.io/badge/GitHub-kiranbabumuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranbabumuddam/)
+[![GitHub](https://img.shields.io/badge/GitHub-kiranbabumuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranmuddam/)
 [![Medium](https://img.shields.io/badge/Medium-kiranbabumuddam-green?style=flat-square&logo=medium)](https://medium.com/@kiranbabumuddam)
 
 ## Hi there, I'm  [Kiran Babu Muddam](https://kiranmuddam.com)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://kiranmuddam.com)
@@ -34,7 +34,7 @@ I am looking forward to contribute to projects on Full-stack development, softwa
 
 ### Contact 📫
 
-<a href="https://www.linkedin.com/in/kiranbabumuddam">
+<a href="https://www.linkedin.com/in/kiranmuddam">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/kiranbabumuddam">
@@ -46,7 +46,7 @@ I am looking forward to contribute to projects on Full-stack development, softwa
 
 <br />
 
-![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=kiranbabumuddam&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)
+![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=kiranmuddam&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=kiranbabumuddam&color=green&style=flat-square&label=Guests)
+![](https://komarev.com/ghpvc/?username=kiranmuddam&color=green&style=flat-square&label=Guests)
 
