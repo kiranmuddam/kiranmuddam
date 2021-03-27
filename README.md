@@ -14,6 +14,7 @@
 
 ### Experience 🔥
 
+- Software Engineer Intern at ([Testsigma Inc](https://testsigma.com/)) - Working with core engineering team. Angular, Spring Boot, Type Script, DevOps.
 - Web Dev and Administrator ([RGUKT Nuzvid](https://rguktn.ac.in/)) - Developed and administered computer science engineering, chemical engineering, national service scheme websites which are used by **10k+ students** in the university..
 - [Lead Developer & Maintainer](https://github.com/TIGMINT/) (TIGMINT) : A open-source framework to analyze open-source social media intelligence.
 - [Lead Developer & Maintainer](https://github.com/WatABot/) (WatABot) : A open-source framework implementations of various social network bots.
