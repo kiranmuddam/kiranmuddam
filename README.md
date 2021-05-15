@@ -9,7 +9,7 @@
 
 ### About Me 🚀
 
-🎓 Software Engineer with a demonstrated history of working in the information technology and services industry with end-to-end experience developing, testing, and maintaining complex enterprise software applications. <br>
+🎓 Software Engineer with a demonstrated history of working in the software engineering industry with end-to-end experience developing, testing, and maintaining complex enterprise software applications. <br>
 👨‍💻 When I'm free I collaborate on open-source projects, participate in hackathons, play esports.
 
 ### Experience 🔥
