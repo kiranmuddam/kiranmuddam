@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/)
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
 [![GitHub](https://img.shields.io/badge/GitHub-kiranmuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranmuddam/)
-[![Medium](https://img.shields.io/badge/Blog-kiranbabumuddam-green?style=flat-square&logo=blog)](https://blog.kiranmuddam.com)
+[![Medium](https://img.shields.io/badge/Blog-https://blog.kiranmuddam.com-green?style=flat-square&logo=blog)](https://blog.kiranmuddam.com)
 
 ## Hi there, I'm  [Kiran Babu Muddam](https://kiranmuddam.com)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://kiranmuddam.com)
 
