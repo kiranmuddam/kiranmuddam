@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/)
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
 [![GitHub](https://img.shields.io/badge/GitHub-kiranmuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranmuddam/)
-[![Medium](https://img.shields.io/badge/Medium-kiranbabumuddam-green?style=flat-square&logo=blogspot)](https://medium.com/@kiranbabumuddam)
+[![Medium](https://img.shields.io/badge/Blog-kiranbabumuddam-green?style=flat-square&logo=blog)](https://blog.kiranmuddam.com)
 
 ## Hi there, I'm  [Kiran Babu Muddam](https://kiranmuddam.com)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://kiranmuddam.com)
 
@@ -12,14 +12,14 @@
 🎓 Software Engineer with a demonstrated history of working in the software engineering industry with end-to-end experience developing, testing, and maintaining complex enterprise software applications. <br>
 👨‍💻 When I'm free I collaborate on open-source projects, participate in hackathons, play esports.
 
-### Experience 🔥
+### Experience / Volunteering 🔥
 
 - Software Engineer Intern at ([Testsigma Inc](https://testsigma.com/)) - Working with core engineering team. Angular, Spring Boot, Type Script, DevOps.
 - Web Dev and Administrator ([RGUKT Nuzvid](https://rguktn.ac.in/)) - Developed and administered computer science engineering, chemical engineering, national service scheme websites which are used by **10k+ students** in the university..
 - [Lead Developer & Maintainer](https://github.com/TIGMINT/) (TIGMINT) : A open-source framework to analyze open-source social media intelligence.
 - [Lead Developer & Maintainer](https://github.com/WatABot/) (WatABot) : A open-source framework implementations of various social network bots.
 - [Summer Intern](http://gurgaon.haryanapolice.gov.in/) (Gurugram Police) worked as an intern to develop software applications to tackle cybercrimes.
-- President & Instructor at [United Security Elite Club (USEC)](https://usec.site) responsible for delivering sessions, conducting events like CTF (Capture The Flag) competitions, workshops and taking decisions related to the club.
+- President & Instructor at [United Security Elite Club (USEC)](https://rguktn.ac.in/) responsible for delivering sessions, conducting events like CTF (Capture The Flag) competitions, workshops and taking decisions related to the club.
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Organized various workshops on Cloud Computing, Artificial Intelligence, Cyber Security, Web Development for around 200 students at a time.
 
 ### Honors & Awards 🏅
