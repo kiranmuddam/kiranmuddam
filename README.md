@@ -1,53 +1,52 @@
 ![banner](https://github.com/kiranmuddam/kiranmuddam/blob/master/0.jpeg)
 
+<h1 align="center">Hey I'm Kiran Babu Muddam <img src="https://raw.githubusercontent.com/kiranmuddam/kiranmuddam/master/wave.gif" width="30px"></h1> 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/)
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
 [![GitHub](https://img.shields.io/badge/GitHub-kiranmuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranmuddam/)
-[![Medium](https://img.shields.io/badge/Blog-https://blog.kiranmuddam.com-green?style=flat-square&logo=blog)](https://blog.kiranmuddam.com)
+[![Medium Badge](https://img.shields.io/badge/-blog.kiranmuddam.com-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://blog.kiranmuddam.com)](https://blog.kiranmuddam.com)
+[![Gmail Badge](https://img.shields.io/badge/-kiraniiitn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiraniiitn@gmail.com)](mailto:kiraniiitn@gmail.com)
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-## Hi there, I'm  [Kiran Babu Muddam](https://kiranmuddam.com)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://kiranmuddam.com)
+## 🚀 About Me 
 
-### About Me 🚀
+🎓 I am Kiran Babu Muddam, currently pursuing my bachelor's degree majoring in computer science from [Rajiv Gandhi University of Knowledge Technologies](https://rguktn.ac.in/). Aspring Software Engineer with a demonstrated history of working in the software development industry, with end-to-end experience in developing, testing, and maintaining enterprise software applications.
 
-🎓 Software Engineer with a demonstrated history of working in the software engineering industry with end-to-end experience in developing, testing, and maintaining complex enterprise software applications. <br>
-👨‍💻 When I'm free I collaborate on open-source projects, participate in hackathons, play esports and I love playing games.
+Results oriented software engineer with strong background in Algorithms, Data Structures, Object-Oriented Programming, Problem-Solving and Clean code. I specialize in full-stack development, Java, C++, Python, Spring Boot, Angular, JavaScript, Git, Rest API and cloud services. Take a look at my work or get in touch! <br>
 
-### Experience / Volunteering 🔥
+👨‍💻 When I'm free I participate in open-source projects, competitive programming, hackathons, esports.
 
-- Software Engineer Intern at ([Testsigma Inc](https://testsigma.com/)) - Working with core engineering team. Angular, Spring Boot, Type Script, DevOps.
-- Web Dev and Administrator ([RGUKT Nuzvid](https://rguktn.ac.in/)) - Developed and administered computer science engineering, chemical engineering, national service scheme websites which are used by **10k+ students** in the university..
-- [Lead Developer & Maintainer](https://github.com/TIGMINT/) (TIGMINT) : A open-source framework to analyze open-source social media intelligence.
-- [Lead Developer & Maintainer](https://github.com/WatABot/) (WatABot) : A open-source framework implementations of various social network bots.
-- [Summer Intern](http://gurgaon.haryanapolice.gov.in/) (Gurugram Police) worked as an intern to develop software applications to tackle cybercrimes.
-- President & Instructor at [United Security Elite Club (USEC)](https://rguktn.ac.in/) responsible for delivering sessions, conducting events like CTF (Capture The Flag) competitions, workshops and taking decisions related to the club.
-- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Organized various workshops on Cloud Computing, Artificial Intelligence, Cyber Security, Web Development for around 200 students at a time.
+## ⚡ Technologies
 
-### Honors & Awards 🏅
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-007ACC?style=flat-square&logo=springboot)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Angular](https://img.shields.io/badge/-Angular-blue?style=flat-square&logo=Angular)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- Google India challenge scholarship 2018 recipient for web specialist track.
-- InCTF 2018 Winner: India's premier capture the flag competition.
-- NullCon RCTF 2019 Winner: Won RCTF 2019 competition at Nullcon Goa 2019.
-- #Fiction2Science Hackathon Finalist: Developed computer vision application to detect and alert vehicle collisions.
 
-### Collaboration 👯
-
-I am looking forward to contribute to projects on Full-stack development, software applications and cybersecurity applications.
-
-### Contact 📫
-
-<a href="https://www.linkedin.com/in/kiranmuddam">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<br/>
+<a href="https://github.com/kiranmuddam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranmuddam&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kiran's github stats" />
 </a>
-<a href="https://twitter.com/kiranbabumuddam">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:kiraniiitn@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</br>
+</br>
 
-<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiranmuddam.kiranmuddam)
 
-![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=kiranmuddam&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)
-
-![](https://komarev.com/ghpvc/?username=kiranmuddam&color=green&style=flat-square&label=Guests)
 
