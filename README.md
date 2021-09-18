@@ -11,9 +11,10 @@
 
 ## 🚀 About Me 
 
-🎓 I am Kiran Babu Muddam, currently pursuing my bachelor's degree majoring in computer science from [Rajiv Gandhi University of Knowledge Technologies](https://rguktn.ac.in/). Aspring Software Engineer with a demonstrated history of working in the software development industry, with end-to-end experience in developing, testing, and maintaining enterprise software applications.
+🎓 I am Kiran Babu Muddam, currently pursuing my bachelor's degree majoring in computer science from [Rajiv Gandhi University of Knowledge Technologies](https://rguktn.ac.in/). 
+Software Engineer with strong knowledge in Computer Science Fundamentals, Algorithms, Data Structures, and Object-­Oriented Principles. Interested in problem-­solving and building highly scalable and available systems.
 
-Results oriented software engineer with strong background in Algorithms, Data Structures, Object-Oriented Programming, Problem-Solving and Clean code. I specialize in full-stack development, Java, C++, Python, Spring Boot, Angular, JavaScript, Git, Rest API and cloud services. Take a look at my work or get in touch! <br>
+Specialized in full-stack development, Java, C++, Python, Spring Boot, Angular, JavaScript, Git, Rest API, and cloud services. Take a look at my work or get in touch!
 
 👨‍💻 When I'm free I participate in open-source projects, competitive programming, hackathons, esports.
 
