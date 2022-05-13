@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey I'm Kiran Babu Muddam <img src="https://raw.githubusercontent.com/kiranmuddam/kiranmuddam/master/wave.gif" width="30px"></h1> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/) -->
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
 [![GitHub](https://img.shields.io/badge/GitHub-kiranmuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranmuddam/)
 [![Medium Badge](https://img.shields.io/badge/-blog.kiranmuddam.com-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://blog.kiranmuddam.com)](https://blog.kiranmuddam.com)
@@ -11,14 +11,13 @@
 
 ## 🚀 About Me 
 
-🎓 I am Kiran Babu Muddam, currently pursuing my bachelor's degree majoring in computer science from [Rajiv Gandhi University of Knowledge Technologies](https://rguktn.ac.in/). 
-Software Engineer with strong knowledge in Computer Science Fundamentals, Algorithms, Data Structures, and Object-­Oriented Principles. Interested in problem-­solving and building highly scalable and available systems.
+🎓 I am Kiran Babu Muddam, Full Stack Software Engineer with strong knowledge in Computer Science Fundamentals. I am a crypto enthusiast and professional web3 developer.
 
-Specialized in full-stack development, Java, C++, Python, Spring Boot, Angular, JavaScript, Git, Rest API, and cloud services. Take a look at my work or get in touch!
+Specialized in full-stack development, Rust, Solana, Web3, React, Anchor, Java, C++, Python, Spring Boot, Angular, JavaScript, Git, Rest API, and cloud services. Take a look at my work or get in touch!
 
-👨‍💻 When I'm free I participate in open-source projects, competitive programming, hackathons, esports.
+👨‍💻 When I'm free I participate in open-source projects, hackathons like solana hackerhouse, esports.
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-007ACC?style=flat-square&logo=springboot)
