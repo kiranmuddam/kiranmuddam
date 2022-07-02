@@ -1,6 +1,6 @@
 ![banner](https://github.com/kiranmuddam/kiranmuddam/blob/master/0.jpeg)
 
-<h1 align="center">Hey I'm Kiran Babu Muddam <img src="https://raw.githubusercontent.com/kiranmuddam/kiranmuddam/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey I'm Kiran Babu Muddam</h1> 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/) -->
 [![Twitter](https://img.shields.io/twitter/follow/kiranbabumuddam?style=flat-square&logo=twitter)](https://twitter.com/kiranbabumuddam)
