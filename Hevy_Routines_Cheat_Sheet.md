@@ -7,8 +7,8 @@ Superset pairs are marked A1/A2: do A1, then A2 immediately, then rest the time 
 ---
 
 ## Routine 1: Day 1 - Quads, Chest, Back (Mon)
-1. Hack Squat (or Leg Press, low/narrow feet) - 3 x 6-8 - rest 3 min (RPE 8-9) - warm-up 2-3
-2. Incline Dumbbell Bench Press (30-45 deg) - 3 x 6-8 - rest 3 min (RPE 8-9) - warm-up 2-3
+1. Hack Squat (or Leg Press, low/narrow feet) - TOP SET 1 x 4-6 (RPE 9), then 2 x 6-8 back-off at ~10% less weight - rest 3 min - warm-up 2-3
+2. Incline Dumbbell Bench Press (30-45 deg) - TOP SET 1 x 4-6 (RPE 9), then 2 x 8-10 back-off at ~10% less weight - rest 3 min - warm-up 2-3
 3. Lat Pulldown, neutral/close grip - 3 x 8-10 - rest 2 min (RPE 9-10) - warm-up 2
 4. Seated Leg Curl - 3 x 10-12 - rest 2 min (RPE 9-10) - warm-up 1
 5. Lateral Raise (Cable) - 3 x 12-15 - rest 1.5 min (RPE 9-10)
@@ -18,7 +18,7 @@ Superset pairs are marked A1/A2: do A1, then A2 immediately, then rest the time 
 9. Cable Crunch - 3 x 10-15 - rest 1 min (RPE 9-10)
 
 ## Routine 2: Day 2 - Hamstrings, Back, Chest (Tue)
-1. Romanian Deadlift - 3 x 8-10 - rest 2-3 min (RPE 8-9) - warm-up 2
+1. Romanian Deadlift - TOP SET 1 x 6-8 (RPE 9), then 2 x 8-10 back-off at ~10% less weight - rest 2-3 min - warm-up 2
 2. Seated Cable Row (V-bar / close grip) - 3 x 8-10 - rest 2 min (RPE 9-10) - warm-up 2
    (sub: Incline-bench chest-supported DB row)
 3. Flat Dumbbell Bench Press - 3 x 8-10 - rest 2 min (RPE 9-10) - warm-up 2
@@ -40,7 +40,7 @@ Superset pairs are marked A1/A2: do A1, then A2 immediately, then rest the time 
 
 ## Routine 4: Day 4 - Single-Leg, Back Width, Chest Stretch, Grip (Fri)
 1. Bulgarian Split Squat (Dumbbell) - 3 x 8-12 each leg - rest 2 min (RPE 8-9) - warm-up 2
-2. Pull Up (or Wide Lat Pulldown) - 3 x 6-10 - rest 2-3 min (RPE 9-10) - warm-up 2
+2. Pull Up (or Wide Lat Pulldown) - TOP SET 1 x 4-6 (RPE 9), then 2 x 8-10 back-off (add weight on the top set when you can) - rest 2-3 min - warm-up 2
 3. Incline Dumbbell Bench Press (lighter) - 2 x 10-12 - rest 2 min (RPE 9-10) - warm-up 1
 4. Cable Fly (low to high) - 3 x 12-15 - rest 1.5 min (RPE 9-10)
 5. A1 Face Pull (Rope) - 3 x 12-15 - rest 0 (RPE 9-10)
@@ -51,6 +51,11 @@ Superset pairs are marked A1/A2: do A1, then A2 immediately, then rest the time 
 10. Ab Wheel Rollout (or Cable Crunch) - 3 x 8-12 - rest 1 min (RPE 9-10)
 
 ---
+
+## How to log a top set in Hevy
+Add 3 sets to the exercise: set 1 = the top set, sets 2-3 = the back-off sets (about 10% lighter).
+Do your warm-up ramp first and log those sets as type W (optional).
+When you hit the top of the rep range on the top set with clean form, add weight next session (2.5 kg upper body, 5 kg legs).
 
 ## Quick rules to remember
 - Heavy compounds stop with 1-2 reps left; isolation work stops with 0-1 reps left; the last set of isolation work can go to failure.
